@@ -3,18 +3,6 @@ Aplikacja webowa do zarządzania wypożyczalnią samochodową.
 
 Aplikacja webowa do zarządzania wypożyczalnią samochodów, stworzona w technologii **Blazor Server**. Pozwala na przeglądanie dostępnych aut, rezerwację pojazdów oraz kontakt z wypożyczalnią.  
 
----
-
-- [Demo](#demo)
-- [Funkcje](#funkcje)
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Uruchomienie](#uruchomienie)
-- [Struktura projektu](#struktura-projektu)
-- [Kontakt](#kontakt)
-
----
-
 
 [Kliknij tutaj, aby zobaczyć demo](http://localhost:5193) (uruchom lokalnie po instalacji).
 
